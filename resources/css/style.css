@@ -1,5 +1,6 @@
-*{background-color: black;}
-*{text-align: center;}
+body{
+  background-color: black;
+  text-align: center;}
 
 h1{
 font-family: Verdana;
@@ -16,7 +17,7 @@ color: gray;}
 font-size: 42px;
 font-weight: 300;}
 
-#link{color: aquamarine;
+.cta{color: aquamarine;
 font-size: 16px;}
 
 #footer{text-align: right;
